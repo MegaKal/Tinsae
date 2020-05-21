@@ -1,0 +1,53 @@
+[
+        {
+                "id": 1,
+                "description": "large",
+                "name": "ሳንድዊች",
+                "catagory": "kurs",
+                "special_instructions": "Kursoten be Tinsae",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 2,
+                "description": "large",
+                "name": "ፍርፍር",
+                "catagory": "kurs",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 3,
+                "description": "large",
+                "name": "ፖስታ",
+                "catagory": "kurs",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 4,
+                "description": "large",
+                "name": "ፉል",
+                "catagory": "kurs",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 5,
+                "description": "large",
+                "name": "እንቁላል ፍርፍር",
+                "catagory": "kurs",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        }
+]

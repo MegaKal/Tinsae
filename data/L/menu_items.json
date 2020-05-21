@@ -1,0 +1,43 @@
+[
+        {
+                "id": 1,
+                "description": "large",
+                "name": "በየ አይነቱ",
+                "catagory": "mesa",
+                "special_instructions": "Yemesa Megeboch",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 2,
+                "description": "large",
+                "name": "ጥብስ",
+                "catagory": "mesa",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 3,
+                "description": "large",
+                "name": "ሽሮ",
+                "catagory": "mesa",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 4,
+                "description": "Doro",
+                "name": "ቲማቲም ልብ ለብ",
+                "catagory": "mesa",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        }
+]

@@ -1,0 +1,53 @@
+[
+        {
+                "id": 1,
+                "description": "large",
+                "name": "ጥብስ",
+                "catagory": "fisik",
+                "special_instructions": "special drinks instruction",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 2,
+                "description": "large",
+                "name": "ቅቅል",
+                "catagory": "fisik",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 3,
+                "description": "large",
+                "name": "ክትፎ",
+                "catagory": "fisik",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 4,
+                "description": "large",
+                "name": "ዱለት",
+                "catagory": "fisik",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 5,
+                "description": "large",
+                "name": "ቋንጣ ፍርፍር",
+                "catagory": "fisik",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        }
+]

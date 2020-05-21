@@ -1,0 +1,38 @@
+[
+        {
+                "id": 1,
+                "note to do here": "change the names to amharic and the images in images/",
+                "name": "ምሳ",
+                "short_name": "L"
+        },
+        {
+                "id": 2,
+                "name": "ቁርስ",
+                "short_name": "K"
+        },
+        {
+                "id": 3,
+                "name": "ፆም",
+                "short_name": "T"
+        },
+        {
+                "id": 4,
+                "name": "ለስላሳ",
+                "short_name": "S"
+        },
+        {
+                "id": 5,
+                "name": "ፍስክ",
+                "short_name": "F"
+        },
+        {
+                "id": 6,
+                "name": "መጠጥ",
+                "short_name": "D"
+        },
+        {
+                "id": 7,
+                "name": "ትኩስ",
+                "short_name": "H"
+        }
+]

@@ -1,0 +1,53 @@
+[
+        {
+                "id": 1,
+                "description": "large",
+                "name": "ሽሮ",
+                "catagory": "tsome",
+                "special_instructions": "Yetsome megeb",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 2,
+                "description": "large",
+                "name": "የፆም ፍርፍር",
+                "catagory": "tsome",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 3,
+                "description": "large",
+                "name": "በየ አይነቱ",
+                "catagory": "tsome",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 4,
+                "description": "large",
+                "name": "ፖስታ",
+                "catagory": "tsome",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        },
+        {
+                "id": 5,
+                "description": "large",
+                "name": "ቲማቲም",
+                "catagory": "tsome",
+                "price": {
+                        "birr": 119,
+                        "cent": 99
+                }
+        }
+]
