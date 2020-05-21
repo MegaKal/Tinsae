@@ -236,6 +236,32 @@ footer section hr {
   background-color: #ffffff;
   width: 50%;
 }
+/* developer-info */
+#developer-info {
+      
+}
+#developer-name {
+       font-size: 1.5em;
+       color: rgb(165, 241, 165);
+}
+#developer-img {
+       border: black 1px solid;
+       
+}
+.developer-contact {
+       font-style: italic;
+       text-decoration: none;
+       color: white;
+}
+
+#description {
+       margin-top: 25px;
+       margin-bottom: 25px;
+}
+#description p{
+       text-align: center;
+       margin: 0 auto;
+}
 /* End Home Tile */
 
 /* Extra Large Screens */
